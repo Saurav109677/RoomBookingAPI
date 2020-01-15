@@ -18,7 +18,7 @@ import com.virtualpairprogrammers.roombooking.data.BookingRepository;
 import com.virtualpairprogrammers.roombooking.model.entities.Booking;
 
 @RestController
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://saurav109677.github.io")
 @RequestMapping("/api")
 public class RestBookingController {
 	
