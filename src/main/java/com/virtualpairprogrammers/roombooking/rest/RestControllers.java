@@ -26,7 +26,7 @@ import com.virtualpairprogrammers.roombooking.model.entities.User;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://saurav109677.github.io")
 public class RestControllers {
 	
 	@Autowired
